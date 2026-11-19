@@ -68,19 +68,19 @@ struct Ana {
 ### 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f2027&title_color=4FD1C5&icon_color=4FD1C5&text_color=e2e8f0" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f2027&title_color=4FD1C5&text_color=e2e8f0" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnaAdascalitei&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f2027&title_color=4FD1C5&icon_color=4FD1C5&text_color=e2e8f0" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaAdascalitei&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f2027&title_color=4FD1C5&text_color=e2e8f0" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=USERNAME&theme=midnight-purple&hide_border=true&background=0f2027&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5" />
+  <img src="https://streak-stats.demolab.com?user=AnaAdascalitei&theme=midnight-purple&hide_border=true&background=0f2027&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5" />
 </p>
 
 <!-- Contribution snake (needs the GitHub Action in .github/workflows/snake.yml) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/AnaAdascalitei/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/USERNAME/AnaAdascalitei/output/github-snake.svg" />
   </picture>
 </p>
 
