@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ana%20Maria%20Ad%C4%83sc%C4%83li%C8%9Bei&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bioinformatics%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Biomedical%20AI&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ana%20Maria%20Ad%C4%83sc%C4%83li%C8%9Bei&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Bioinformatics%20%E2%80%A2%20Data%20Science&descAlignY=58&descSize=18" />
 </p>
 
 <!-- Typing animation -->
