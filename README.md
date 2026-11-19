@@ -20,17 +20,6 @@
 
 ### 🧬 `whoami`
 
-```cpp
-struct Ana {
-    std::string location   = "Bucharest, Romania 🇷🇴";
-    std::string degree     = "BSc @ Politehnica București (FILS) — 2026";
-    std::string studying   = "MSc Data Science @ Politehnica București";
-    std::string thesis     = "Comparative genomic analysis with the ODS method";
-    std::string research   = "Automated immunofluorescence analysis of kidney biopsies";
-    std::vector<std::string> interests = {"bioinformatics", "medical imaging",
-                                          "deep learning", "Eurovision 🎤"};
-};
-```
 
 - 🔬 Currently researching **automated characterization of immunofluorescence signal in kidney biopsy images**
 - 🧪 Bachelor's thesis on **comparative genomics** using the ODS method
@@ -43,7 +32,7 @@ struct Ana {
 ### 🛠️ Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,scala,pytorch,tensorflow,sklearn,git,linux,vscode&perline=9" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,scala,pytorch,tensorflow,sklearn,git,vscode&perline=9" />
 </p>
 
 <p align="center">
@@ -59,8 +48,8 @@ struct Ana {
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🧬 [**ODS Genomic Analysis**](https://github.com/USERNAME/REPO) | Comparative genomic analysis using the ODS method (BSc thesis) | C++ · Python |
-| 🩸 [**Blood Cell Classifier**](https://github.com/USERNAME/REPO) | Classifies blood cell types from microscopy images, 94.4% test accuracy | Python · TensorFlow · MobileNetV2 |
+| 🧬 [**ODS Genomic Analysis**](https://github.com/AnaAdascalitei/pete-digitale-obiective) | Comparative genomic analysis using the ODS method (BSc thesis) | C++ · Python |
+| 🩸 [**Blood Cell Classifier**](https://github.com/AnaAdascalitei/Blood-Cell-Classification) | Classifies blood cell types from microscopy images, 94.4% test accuracy | Python · TensorFlow · MobileNetV2 |
 | 🔬 **Kidney Biopsy IF Analysis** *(in progress)* | Automated characterization of immunofluorescence signal | Python · Computer Vision |
 
 ---
@@ -89,13 +78,13 @@ struct Ana {
 ### 📫 Find me
 
 <p align="center">
-  <a href="https://linkedin.com/in/LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://kaggle.com/KAGGLE"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ana-adascalitei-299865347/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:adascalitei.ana9804@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/anaadscliei"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&color=4FD1C5&style=flat-square&label=profile+views" />
+  <img src="https://komarev.com/ghpvc/?username=AnaAdascalitei&color=4FD1C5&style=flat-square&label=profile+views" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
