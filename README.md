@@ -83,8 +83,4 @@
   <a href="https://www.kaggle.com/anaadscliei"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnaAdascalitei&color=4FD1C5&style=flat-square&label=profile+views" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
