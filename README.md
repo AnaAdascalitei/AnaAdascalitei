@@ -67,10 +67,9 @@
 
 <!-- Contribution snake (needs the GitHub Action in .github/workflows/snake.yml) -->
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnaAdascalitei/AnaAdascalitei/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/AnaAdascalitei/AnaAdascalitei/output/github-snake.svg" />
-  </picture>
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/AnaAdascalitei/AnaAdascalitei/output/dna-helix.svg" alt="DNA helix of my contributions" />
+</p>
 </p>
 
 ---
