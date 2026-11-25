@@ -69,7 +69,7 @@
 <p align="center">
   <p align="center">
   <img src="https://raw.githubusercontent.com/AnaAdascalitei/AnaAdascalitei/output/dna-helix.svg" alt="DNA helix of my contributions" />
-</p>
+  </p>
 </p>
 
 ---
